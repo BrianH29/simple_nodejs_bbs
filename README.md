@@ -2,7 +2,7 @@
 
 studying nodejs server
 
-![Image of screen](../img/list.jpg)
+![Image of screen](./bbs/img/list.jpg)
 
 - [x] understanding route
 - [x] w/o using sequelize
